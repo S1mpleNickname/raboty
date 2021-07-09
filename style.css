@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+.link-header {
+    text-decoration: none;
+    color: black;
+    background-color: #FF8040;
+    padding: 7px;
+}
+header {
+    background-color: #35D4A0;
+    padding: 35px;
+}
+.link-nav {
+    text-decoration: none;
+    color: black;
+}
+.link-nav:hover {
+    color: #35D4A0;
+    margin-left: 25px;
+}
+.gg {
+    text-align: center;
+}
+.ggg { 
+    text-align: center;
+}
+img {
+    text-align: center;
+}
